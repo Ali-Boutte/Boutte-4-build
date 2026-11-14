@@ -33,16 +33,10 @@ nav ul{
     list-style: none;
     gap: 1rem;
     margin: 1rem 0;
-article {
-    flex: 1;
-}
-article:nth-of-type(3) {
-    flex: 2 100px;
-}
-}   
+} 
 nav a {
         text-decoration: none;
-        color: blue;
+        color: black;
         background-color: white;
         padding: 1rem 1rem;
         font-size: 1.3em;
@@ -96,7 +90,7 @@ img {
 p {
     display: block;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.3rem;
     color: black;
     margin: 0 1rem;
     border: 2px solid black;
